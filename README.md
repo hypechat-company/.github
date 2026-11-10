@@ -6,7 +6,7 @@
 
 ## Quick Links
 
-- ### [🌍 Website](https://hypechat.org): The official Stoat website.
+- ### [🌍 Website](https://hypechat.org): The official HypeChat website.
 - ### [⬇ Downloads](https://Hypechat.org/download): Download HypeChat for your platform.
 - ### [🔧 Developer Documentation](https://developers.hypechat.org): Documentation for developers including information on how to contribute.
   <!-- - ### [🦜 Discussions](https://github.com/orgs/stoatchat/discussions): Request features or ask questions. -->
@@ -22,8 +22,8 @@ Here are clients being maintained under Stoat's organisation:
 
 | Repository                                                             | Description                         |               Maintainer(s)                | Fit For Use |
 | ---------------------------------------------------------------------- | ----------------------------------- | :----------------------------------------: | :---------: |
-| [for-web](https://github.com/stoatchat/for-web)                        | Solid.js Progressive Web App        | [@insertish](https://github.com/insertish) |     ✅      |
-| [for-desktop](https://github.com/stoatchat/for-desktop)                | Electron desktop wrapper for Revite |                                            |     ✅      |
+| [for-web](https://github.com/hypechat-company/for-web.git)                        | Solid.js Progressive Web App        | [@DevinFlint07](https://github.com/insertish) |     ✅      |
+| [for-desktop](https://github.com/hypechat-company/for-desktop)                | Electron desktop wrapper for Revite |                                            |     ✅      |
 
 ### Server Software
 
@@ -31,5 +31,5 @@ Below is a list of all the repositories relevant to developing the core Stoat se
 
 | Repository                                                                  | Description                                   |               Maintainer(s)                |
 | --------------------------------------------------------------------------- | --------------------------------------------- | :----------------------------------------: |
-| [backend](https://github.com/stoatchat/stoatchat)                           | Rust core libraries and backend services      | [@insertish](https://github.com/insertish) |
+| [backend](https://github.com/hypechat-company/backend)                           | Rust core libraries and backend services      | [@DevinFlint07]
 
